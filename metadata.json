@@ -1,0 +1,7 @@
+{
+  "name": "AI Keyboard",
+  "description": "An AI-powered keyboard extension with spacebar smart fetch, action hotkeys, custom themes, OpenRouter & Gemini support, haptics, and precision typing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
